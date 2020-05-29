@@ -13,6 +13,7 @@ author: Angela Yao
 
 navbar-links:
   Home: "https://sperky01.github.io"
+  Projects: "projects"
   About Me: "aboutme"
 #   Resources:
 #     - Beautiful Jekyll: "https://beautifuljekyll.com"
