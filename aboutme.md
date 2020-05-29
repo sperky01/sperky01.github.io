@@ -11,5 +11,5 @@ subtitle: The essentials
 
 ### work
 
-* Incoming Software Engineer, Chicago (Relativity)
-* Mergers & Acquisitions Consultant, New York (PwC)
+* Incoming Software Engineer, 2020-present (Relativity Chicago)
+* Mergers & Acquisitions Consultant, 2016-2019 (PwC, New York)
