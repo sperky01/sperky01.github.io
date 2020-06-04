@@ -16,3 +16,5 @@ The software consists of multiple components, including a web app (an interface 
 
 > A text adventure game (similar to Colossal Cave Adventure) written in Haskell.
 > [Demo](https://youtu.be/HIEKxJsD_R0)
+
+The player can walk to any room on the map and also retrace their steps. The player can also take and drop items, subject to a maximum weight limit. The winning state of the game is for the player to carry 'jug' into 'backyard'. I designed the game by following the 'functional core/imperative shell' approach. 
