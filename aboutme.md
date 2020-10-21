@@ -11,5 +11,6 @@ subtitle: The essentials
 
 ### work
 
-* Software Engineer Intern, 2020-present (Relativity, Chicago)
+* Software Engineer, 2020-present (Tempus, Chicago)
+* Software Engineer Intern, 2020-2020 (Relativity, Chicago)
 * Mergers & Acquisitions Consultant, 2016-2019 (PwC, New York)
